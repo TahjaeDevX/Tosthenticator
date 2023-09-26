@@ -1,6 +1,6 @@
 {
-  "name": "Contains-CE",
-  "description": "Base Level Extension",
+  "name": "Tosthenticator",
+  "description": "Simple authenticator",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
